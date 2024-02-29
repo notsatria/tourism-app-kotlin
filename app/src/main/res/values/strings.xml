@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Tourism App</string>
+
+    <!--    Get Started Activity-->
+    <string name="get_started_title">Fly Like a Bird</string>
+    <string name="get_started_desc">Explore new world with us and let yourself get an amazing experiences</string>
+    <string name="get_started">Get Started</string>
+
+    <!--  Main Activity  -->
+    <string name="main_greetings">Howdy, Satria!</string>
+    <string name="main_greetings_desc">Where to fly today?</string>
+    <string name="card_place_name">Nama Tempat</string>
+    <string name="card_place_city">Nama Kota</string>
+    <string name="card_place_rating">4.5</string>
+
+    <!--    Place Data-->
+    <string name="place_description_dummy">Hidden within the bustling heart of Jakarta lies Ciliwung Lake, a shimmering expanse whispering tales of ancient spirits and forgotten kingdoms. Though shrouded in modern cityscape, the lake\'s soul remains tethered to its mystical past. Legend speaks of a hidden city beneath its surface, a forgotten civilization swallowed by the lake\'s wrath centuries ago. On moonlit nights, some swear they see spectral figures gliding across the water, their whispers carried on the wind.</string>
+
+
+    <integer-array name="data_place_image">
+        <item>@drawable/ciliwung</item>
+        <item>@drawable/white_house</item>
+        <item>@drawable/hill_hey</item>
+        <item>@drawable/menarra</item>
+        <item>@drawable/payung_teduh</item>
+        <item>@drawable/danau_beratan</item>
+        <item>@drawable/sydney_opera</item>
+        <item>@drawable/roma</item>
+        <item>@drawable/petronas</item>
+        <item>@drawable/merlion</item>
+        <item>@drawable/pisa</item>
+        <item>@drawable/taj_mahal</item>
+    </integer-array>
+    <string-array name="data_place_name">
+        <item>Ciliwung Lake</item>
+        <item>White Houses</item>
+        <item>Hill Hey</item>
+        <item>Menarra</item>
+        <item>Payung Teduh</item>
+        <item>Danau Berantan</item>
+        <item>Sydney Operra</item>
+        <item>Roma</item>
+        <item>Petronas</item>
+        <item>Merlion</item>
+        <item>Pisa</item>
+        <item>Taj Mahal</item>
+    </string-array>
+    <string-array name="data_place_country">
+        <item>Indonesia</item>
+        <item>Spain</item>
+        <item>Monocao</item>
+        <item>Japan</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Australia</item>
+        <item>Italy</item>
+        <item>Malaysia</item>
+        <item>Singapore</item>
+        <item>Italy</item>
+        <item>India</item>
+    </string-array>
+    <string-array name="data_place_rating">
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.0</item>
+        <item>4.5</item>
+        <item>4.4</item>
+        <item>4.3</item>
+        <item>4.2</item>
+        <item>4.1</item>
+        <item>4.0</item>
+    </string-array>
+    <string-array name="data_place_description">
+        <item>Hidden within the bustling heart of Jakarta lies Ciliwung Lake, a shimmering expanse whispering tales of ancient spirits and forgotten kingdoms. Though shrouded in modern cityscape, the lake\'s soul remains tethered to its mystical past. Legend speaks of a hidden city beneath its surface, a forgotten civilization swallowed by the lake\'s wrath centuries ago. On moonlit nights, some swear they see spectral figures gliding across the water, their whispers carried on the wind.</item>
+        <item>In Spain, "White Houses" isn\'t a specific enough term to generate a single, accurate description.There are several places known as "White Houses" in different regions, each with unique characteristics. To craft the best description, I need more information about which specific White Houses you\'re referring to. Please provide details like the city, region, or any other known information about the location. With that information, I can create a compelling and informative paragraph description.</item>
+        <item>Perched atop a verdant hill overlooking the glittering expanse of Monte Carlo, Hill Hey exudes an aura of exclusivity and adventure. Winding paths weave through manicured gardens, offering breathtaking panoramic views of the principality below. Sparkling yachts bob in the harbor, their sails catching the sun like polished jewels. The iconic Casino de Monte Carlo beckons with its promise of high stakes and thrilling games.</item>
+        <item>Nestled amidst the lush, rolling hills of Japan\'s countryside lies Menarra, a village seemingly untouched by time. Framed by vibrant rice paddies and graceful bamboo forests, the air hums with tranquility, inviting weary travelers to shed their burdens and immerse themselves in its serene embrace</item>
+        <item>Nestled amidst the emerald embrace of Indonesia\'s rainforests, Payung Teduh unfolds like a hidden paradise. Its name, translating to "Tranquil Umbrella," reflects the serene atmosphere that envelops this charming village, sheltered by a canopy of ancient trees and kissed by the whispers of cascading waterfalls.</item>
+        <item>Deep within the mystical embrace of Bali\'s central highlands lies Danau Beratan, a lake shrouded in ancient legends and breathtaking beauty. Shimmering like a jewel amidst emerald rice paddies and volcanic slopes, the lake\'s tranquil surface reflects the majesty of Mount Batur, a slumbering giant promising whispers of fiery tales.</item>
+        <item>Sydney Opera House. White sails against the sky, a symbol of Australia. Inside, a symphony of arts unfolds. Experience architecture, performance, and magic all in one.</item>
+        <item>Rome, the "Eternal City," pulsates with a captivating blend of ancient echoes and modern energy. Step onto its cobbled streets and feel the weight of history beneath your feet, from the mighty Colosseum where gladiators once battled to the Pantheon\'s awe-inspiring dome whispering stories of emperors and gods.</item>
+        <item>Soaring into the Malaysian sky like twin giants, the Petronas Towers stand as a testament to human ambition and engineering prowess. Reaching a dizzying 452 meters, their sleek, stainless-steel facades reflect the vibrant energy of Kuala Lumpur below.</item>
+        <item>Standing proudly at the mouth of the Singapore River, the Merlion – a mythical creature with a lion\'s head and a fish\'s body – is more than just a landmark; it\'s the iconic symbol of Singapore itself. This majestic beast, spouting water from its mouth, embodies the city\'s unique identity, blending its rich historical roots with its modern aspirations.</item>
+        <item>The Leaning Tower, a symbol of Pisa\'s artistic heritage, stands defiant against the sky, its unintended tilt adding a touch of whimsical charm. Climb the 294 steps to its observation deck for breathtaking panoramic views of the city and surrounding countryside. The architectural details of the tower, its intricate carvings and Romanesque arches, tell stories of a bygone era.</item>
+        <item>Rising from the banks of the Yamuna River like a dream in white marble, the Taj Mahal stands as an eternal monument to love. More than just a mausoleum, it\'s a poem etched in stone, whispering a timeless tale of devotion and artistry.</item>
+    </string-array>
+
+<!--    About -->
+    <string name="about_me">About Me</string>
+    <string name="name">Damar Satria Buana</string>
+    <string name="email">buanasatriaa@gmail.com</string>
+
+</resources>
